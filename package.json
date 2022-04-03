@@ -1,0 +1,11 @@
+{
+  "name": "solarpowermonitor",
+  "version": "1.0.0",
+  "description": "Captures the serial output from Arduinos which are outputting raw sensor data for voltage, current and temperature for my solar power increase experiment",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "author": "Kiran Patel",
+  "license": "ISC"
+}
